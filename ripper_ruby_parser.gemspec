@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('ruby_parser', ["~> 2.3.1"])
   s.add_development_dependency('simplecov')
 
-  s.required_ruby_version = '~> 1.9.3'
+  s.required_ruby_version = '~> 1.9.2'
 
   s.require_paths = ["lib"]
 end
